@@ -1,0 +1,7 @@
+#Please note that currently adding a new package to index bases it off of default
+default: https://github.com/CarmeLabs/packages/raw/master/default/packages/default_20180628_220050.zip
+gcp: https://github.com/CarmeLabs/packages/raw/master/gcp/packages/gcp_20180611_143735.zip
+azure: https://github.com/CarmeLabs/packages/raw/master/azure/packages/azure_20180623_114706.zip
+jupyter: https://github.com/CarmeLabs/packages/raw/master/jupyter/packages/jupyter_20180628_214331.zip
+azcopy: https://github.com/CarmeLabs/packages/raw/master/azcopy/packages/azcopy_20180623_133133.zip
+docker: https://github.com/CarmeLabs/packages/raw/master/docker/packages/docker_20180628_214637.zip

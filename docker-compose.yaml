@@ -1,0 +1,7 @@
+# Packages will include a docker compose file. When the
+# package is installed the docker compose file
+# will be concatenated.
+# For more info, see: https://docs.docker.com/v17.09/compose/
+version: '3'
+
+services:
